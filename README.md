@@ -1,5 +1,7 @@
 # Decoding Global Health: A Data Analysis
 
+🌐 **Live Project Website:** [https://reens4325.github.io/global-health-analysis/](https://reens4325.github.io/global-health-analysis/)
+
 ## Overview
 This project analyzes the relationship between national health expenditure, physician density, and life expectancy using World Bank data from 2000-2022. The analysis explores global trends and identifies interesting outliers.
 
@@ -55,5 +57,3 @@ This choropleth map illustrates the stark global inequalities in health outcomes
 
 ## Data Source
 All data was sourced from the World Bank's Open Data platform.
-
-[def]: https://reens4325.github.io/global-health-analysis/scatter_plot.html
