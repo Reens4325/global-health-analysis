@@ -14,7 +14,7 @@ This project analyzes the relationship between national health expenditure, phys
 ## Visualizations
 
 ### 1. Health Expenditure vs. Life Expectancy (2022)
-![Health vs. Life Expectancy Scatter Plot](Images\Health Expenditure vs. Life Expectancy 2022.png)
+[![Interactive Scatter Plot Preview](images/health_vs_life_exp_2022.png)](https://reens4325.github.io/global-health-analysis/scatter_plot.html)
 
 This interactive scatter plot explores the core relationship of this project:
 - **X-Axis:** Health Expenditure per Capita (log scale).
@@ -30,7 +30,7 @@ This interactive scatter plot explores the core relationship of this project:
 *This plot is interactive in the Jupyter notebook, allowing for detailed exploration of every country's data.*
 
 ### 2. Global Life Expectancy (2022)
-![Global Life Expectancy Map](Images/Global Life Expectancy 2022.png)
+[![Interactive Map Preview](images/global_life_expectancy_map_2022.png)](https://reens4325.github.io/global-health-analysis/map_plot.html)
 
 This choropleth map illustrates the stark global inequalities in health outcomes. The clear geographical pattern shows:
 - **Higher life expectancy** (yellow/red) concentrated in North America, Europe, and Oceania.
@@ -55,3 +55,5 @@ This choropleth map illustrates the stark global inequalities in health outcomes
 
 ## Data Source
 All data was sourced from the World Bank's Open Data platform.
+
+[def]: https://reens4325.github.io/global-health-analysis/scatter_plot.html
