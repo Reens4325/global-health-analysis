@@ -1,0 +1,20 @@
+# Virtual environments
+health_venv/
+
+
+# Files automatically made
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+
+# Not currently relevant, but added in for scalability
+# Environment variables
+.env
+.env*/
+
+# Large data files (if they were in the root folder)
+*.zip
