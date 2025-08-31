@@ -3,7 +3,7 @@
 🌐 **Live Project Website:** [https://reens4325.github.io/global-health-analysis/](https://reens4325.github.io/global-health-analysis/)
 
 ## Overview
-This project analyzes the relationship between national health expenditure, physician density, and life expectancy using World Bank data from 2000-2022. The analysis explores global trends and identifies interesting outliers.
+This project analyses the relationship between national health expenditure, physician density, and life expectancy using World Bank data from 2000-2022. The analysis explores global trends, with emphasis on the UK relative to other countries.
 
 ## Key Questions
 - How strong is the correlation between health spending and life expectancy?
